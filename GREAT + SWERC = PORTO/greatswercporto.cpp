@@ -1,6 +1,5 @@
 // Problem name: GREAT + SWERC = PORTO
 // Solved by: Kamal
-// Judgement Pending
 
 #include <bits/stdc++.h>
 
