@@ -1,6 +1,5 @@
 // Problem name: Prime Reduction
 // Solved by: Kamal
-// Judgement Pending
 
 #include<bits/stdc++.h>
 using namespace std;
