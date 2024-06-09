@@ -48,9 +48,9 @@ bool chk(){
 }
 
 int main() {
-    ll i.j.test=1,cas=0;
-    ll a.b;
-    #ifndef ONLINE JUDGE
+    ll i,j,test=1,cas=0;
+    ll a,b;
+    #ifndef ONLINE_JUDGE
     //freopen("test.txt","r", stdin);
     #endif
     int ln;
@@ -89,8 +89,3 @@ int main() {
     printf("%d\n", res);
     return 0;
 }
-
-
-
-
-Text Extracted by jpgtotext.com
