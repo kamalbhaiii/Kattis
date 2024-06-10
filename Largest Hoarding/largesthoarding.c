@@ -1,6 +1,6 @@
 // Problem name: Largest Hoarding
 // Solved by: Kamal
-// Test cases failed
+// NOTE: Test cases failed
 
 #include <stdio.h>
 #include <stdlib.h>
