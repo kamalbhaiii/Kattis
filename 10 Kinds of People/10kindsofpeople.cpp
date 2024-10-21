@@ -1,5 +1,8 @@
 // Problem name: 10 Kinds of People
-// Solved by: Kamal
+// @author Kamal
+// Method: Breadth-First Search (BFS) with Flood Fill algorithm
+// Status: Accepted
+// Run-time: 0.04s
 
 #include <bits/stdc++.h>
 
