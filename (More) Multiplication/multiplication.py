@@ -1,5 +1,8 @@
 # Problem name: More Multiplication
-# Solved by: Kamal
+# @author Kamal
+# Method: Static methods used for generating multiplication tables using strings of numbers
+# Status: Accepted
+# Run-time: 0.04s
 
 class Multiplication:
 
