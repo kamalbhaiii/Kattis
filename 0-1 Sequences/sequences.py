@@ -1,5 +1,8 @@
-# Problem name: 0-1 Sequences
-# Solved by: Kamal
+# Problem name: More Multiplication
+# @author Kamal
+# Method: Dynamic Programming with Modular Arithmetic
+# Status: Accepted
+# Run-time: 0.10s
 
 MOD = 10**9+7
 MEM = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096]
