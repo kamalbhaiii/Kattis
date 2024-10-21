@@ -1,5 +1,8 @@
 // Problem name: 3D Printed Statues
-// Solved by: Kamal
+// @author Kamal
+// Method: Bit Manipulation and Binary Counting
+// Status: Accepted
+// Run-time: 0.00s
 
 #include <stdio.h>
 
