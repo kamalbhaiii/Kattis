@@ -1,5 +1,8 @@
 # Problem name: 99 Problems
-# Solved by: Kamal
+# @author Kamal
+# Method: Greedy Algorithm
+# Status: Accepted
+# Run-time: 0.04s
 
 import sys
 
