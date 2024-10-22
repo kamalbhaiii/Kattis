@@ -1,5 +1,8 @@
-# Problem name: 4 thought
-# Solved by: Kamal
+# Problem name: 4 Thought
+# @author Kamal
+# Method: Brute Force
+# Status: Accepted
+# Run-time: 0.04s
 
 import sys
 
